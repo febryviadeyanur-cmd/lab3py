@@ -82,4 +82,5 @@ Algoritma :
 22. Tampilkan "Saldo anda telah habis.Terimakasih telah menggunakan msin ATM"
 23. Selesai
 
-Hasilnya :
+Hasilnya : ![image alt]<img width="1471" height="845" alt="Screenshot 2025-10-30 090354" src="https://github.com/user-attachments/assets/fd7af139-2c9c-4828-b488-5ab2ab3a7f20" />
+
