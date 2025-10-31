@@ -36,7 +36,7 @@ Tujuan : Menghitung total laba dalam keuntungan berinvestasi seorang pengusaha s
 
 Algoritma :
 1. Mulai
-2. Masukkan modal awal RP.100000000 = 100 juta
+2. Masukkan modal awal Rp.100000000 = 100 juta
 3. Inisisalisasi total keuntungan = 0
 4. Masukkan total keuntungan setiap bulan dari 1 sampai 8
 5. Perulangan for bulan in range (1,9)
@@ -62,9 +62,24 @@ Algoritma :
 2. Inisialisasi Simulasi mesin ATM sederhana
 3. Masukkan saldo awal dengan nilai 1000000
 4. Tampilkan "Selamat datang di mesin ATM sederhana"
-5. Tampilkan saldo awal anda : RP (saldo)
+5. Tampilkan saldo awal anda : Rp (saldo)
 6. Tampilkan pilihan utama dengan perulangan while saldo > 0
 7. Tampilkan plihan opsi
 8. Pilih (1. Tarik uang) atau (2. Keluar)
 9. Input masukkan pilihan (1 atau 2)
-10. Jika pilih == 1
+10. Jika pilihan == 1
+11. Masukkan jumlah yang ingin ditarik : Rp
+12. Masukkan jumlah yang ingin ditarik lebih dari > dari 0
+13. Tampilkan jumlah saldo tidak mencukupi
+14. Tampilkan penarikan berhasil. Saldo anda sekarang: Rp (saldo)
+15. Masukkan jumlah yang valid 
+16. Jika pilihan == 2
+17. Print "Terima kasih telah mengggunakan mesin ATM. Sampai jumpa"
+18. break untuk menghentikan pengulangan
+19. Print "Pilihan tidak valid. Silakan pilih 1 atau 2"
+20. Tampilkan jika saldo habis
+21. Saldo == 0
+22. Tampilkan "Saldo anda telah habis.Terimakasih telah menggunakan msin ATM"
+23. Selesai
+
+Hasilnya :
