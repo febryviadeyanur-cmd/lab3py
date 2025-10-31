@@ -27,7 +27,7 @@ Algoritma:
 11. Selesai
 
 Hasilnya:
-![image alt]
+![image alt]Hasil latihan1.py.png
 
 Latihan2.py
 Menghitung Total Keuntungan Investasi Usaha Selama 8 bulan
