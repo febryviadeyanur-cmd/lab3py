@@ -27,7 +27,8 @@ Algoritma:
 11. Selesai
 
 Hasilnya:
-![image alt]Hasil latihan1.py.png
+<img width="1438" height="494" alt="Screenshot 2025-10-30 084543" src="https://github.com/user-attachments/assets/7ed57c30-de8a-463a-8bce-e7ed9ed71593" />
+
 
 Latihan2.py
 Menghitung Total Keuntungan Investasi Usaha Selama 8 bulan
@@ -51,6 +52,8 @@ Algoritma :
 14. Selesai
 
 Hasilnya:
+<img width="1529" height="579" alt="Screenshot 2025-10-30 085535" src="https://github.com/user-attachments/assets/d6423cb8-82a0-4246-a4fe-5ac0a2ebc91c" />
+
 
 Latihan3.py
 Program ATM Sederhana
@@ -82,5 +85,6 @@ Algoritma :
 22. Tampilkan "Saldo anda telah habis.Terimakasih telah menggunakan msin ATM"
 23. Selesai
 
-Hasilnya : ![image alt]<img width="1471" height="845" alt="Screenshot 2025-10-30 090354" src="https://github.com/user-attachments/assets/fd7af139-2c9c-4828-b488-5ab2ab3a7f20" />
+Hasilnya : 
+<img width="1471" height="845" alt="Screenshot 2025-10-30 090354" src="https://github.com/user-attachments/assets/fd7af139-2c9c-4828-b488-5ab2ab3a7f20" />
 
